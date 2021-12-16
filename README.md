@@ -36,7 +36,7 @@ int main()
 Todo lista za nadopunu programa:
 - [x] Ispisati poruku za unos broja
 - [x] Omogućiti unos broja
-- [x] Provjeriti je li broj troznamenkast
-- [x] Ispisati sumu znamenki broja
+- [] Provjeriti je li broj troznamenkast
+- [] Ispisati sumu znamenki broja
 
 [Povratak na vrh](#markdown-vježba)
